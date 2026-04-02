@@ -1,7 +1,5 @@
 # LeetCode Solutions
 
-## What is it?
-
 Automatically commits submissions to LeetCode problems to this repository. Helps keep track of my daily progress!
 
 ---
