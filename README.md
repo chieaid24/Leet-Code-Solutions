@@ -1,11 +1,10 @@
 # LeetCode Solutions
 
-> Synced automatically from [NeetCode.io](https://neetcode.io)
-
----
-## What is it
+## What is it?
 
 Automatically commits submissions to LeetCode problems to this repository. Helps keep track of my daily progress!
+
+---
 
 ## Repository structure
 
